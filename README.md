@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Primeosie24
+- 👋 Hi, I’m @Peter_ugodaga
 - 👀 I’m interested in cybersecurity and software programming   
 - 🌱 I’m currently learning IDS/IPS and Log analysis using wire shark
 - 💞️ I’m looking to collaborate on any project that has to do with security and pen testing
